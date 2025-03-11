@@ -1,0 +1,549 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|c:\\users\\blu\\documents\\c#\\titanicsyndrome\\titanicsyndrome_ver4\\titanicsyndrome\\titanicsyndrome\\databaseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:titanicsyndrome\\databaseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\titanicsyndrome\\databaseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:titanicsyndrome\\databaseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\titanicsyndrome\\frmedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:titanicsyndrome\\frmedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\titanicsyndrome\\frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:titanicsyndrome\\frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\titanicsyndrome\\frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:titanicsyndrome\\frmedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\titanicsyndrome\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:titanicsyndrome\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\titanicsyndrome\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:titanicsyndrome\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\titanicsyndrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:titanicsyndrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\titanicsyndrome\\surveryorg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:titanicsyndrome\\surveryorg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Surveryorg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:TitanicSyndrome\\Surveryorg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Testper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:TitanicSyndrome\\Testper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\titanicsyndrome\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:titanicsyndrome\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:TitanicSyndrome\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:TitanicSyndrome\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Summary_org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:TitanicSyndrome\\Summary_org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Summary_org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:TitanicSyndrome\\Summary_org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:TitanicSyndrome\\Summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:TitanicSyndrome\\Summary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\titanicsyndrome\\testper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:titanicsyndrome\\testper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\frmTest_org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:TitanicSyndrome\\frmTest_org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\frmTest_org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:TitanicSyndrome\\frmTest_org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\TestIntro_per.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:TitanicSyndrome\\TestIntro_per.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Blu\\AppData\\Local\\Temp\\.vsdbgsrc\\da72682fedd7371eb9a25af6de29293fed20de67afa0f08beaf74a23494f8cdc\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\TestIntro_org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:TitanicSyndrome\\TestIntro_org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\TestIntro_org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:TitanicSyndrome\\TestIntro_org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\Test.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\frmOrgInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome ver2\\TitanicSyndrome\\TitanicSyndrome\\appSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\frmOrgInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\TestIntro_per.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:TitanicSyndrome\\TestIntro_per.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\dbTitanicDataSet.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:TitanicSyndrome\\dbTitanicDataSet.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\RJButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8967EAFC-3B06-4DE0-BAA1-3D1152733DC2}|TitanicSyndrome\\TitanicSyndrome.csproj|solutionrelative:TitanicSyndrome\\RJButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmEdit.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\frmEdit.Designer.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\frmEdit.Designer.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\frmEdit.Designer.cs",
+              "RelativeToolTip": "TitanicSyndrome\\frmEdit.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:52:13.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmEdit.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\frmEdit.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\frmEdit.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\frmEdit.cs",
+              "RelativeToolTip": "TitanicSyndrome\\frmEdit.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAiwF4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:52:54.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmEdit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\frmEdit.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\frmEdit.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\frmEdit.cs [Design]",
+              "RelativeToolTip": "TitanicSyndrome\\frmEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:41:32.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\DatabaseUI.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\DatabaseUI.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\DatabaseUI.cs [Design]",
+              "RelativeToolTip": "TitanicSyndrome\\DatabaseUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:35:24.647Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseUI.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\DatabaseUI.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\DatabaseUI.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\DatabaseUI.cs",
+              "RelativeToolTip": "TitanicSyndrome\\DatabaseUI.cs",
+              "ViewState": "AQIAADYBAAAAAAAAAAAuwLwBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:38:02.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "exit.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\exit.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\exit.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\exit.cs",
+              "RelativeToolTip": "TitanicSyndrome\\exit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:55:10.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Testper.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Testper.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\Testper.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Testper.cs [Design]",
+              "RelativeToolTip": "TitanicSyndrome\\Testper.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:36:58.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Login.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\Login.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Login.cs [Design]",
+              "RelativeToolTip": "TitanicSyndrome\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:30:09.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Login.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\Login.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Login.cs",
+              "RelativeToolTip": "TitanicSyndrome\\Login.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAiwIwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:46:00.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Program.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\Program.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Program.cs",
+              "RelativeToolTip": "TitanicSyndrome\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:30:21.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Surveryorg.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Surveryorg.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\Surveryorg.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Surveryorg.cs [Design]",
+              "RelativeToolTip": "TitanicSyndrome\\Surveryorg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:45:32.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Surveryorg.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Surveryorg.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\Surveryorg.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Surveryorg.cs",
+              "RelativeToolTip": "TitanicSyndrome\\Surveryorg.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAWwL8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:00:59.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmTest_org.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\frmTest_org.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\frmTest_org.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\frmTest_org.cs",
+              "RelativeToolTip": "TitanicSyndrome\\frmTest_org.cs",
+              "ViewState": "AQIAAHQBAAAAAAAAAAAswIcBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:40:45.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Person.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\Person.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Person.cs",
+              "RelativeToolTip": "TitanicSyndrome\\Person.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAIAzwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:33:10.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "exit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\exit.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\exit.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\exit.cs [Design]",
+              "RelativeToolTip": "TitanicSyndrome\\exit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:34:45.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Summary_org.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Summary_org.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\Summary_org.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Summary_org.cs",
+              "RelativeToolTip": "TitanicSyndrome\\Summary_org.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAADgv1oAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T08:53:34.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Summary_org.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Summary_org.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\Summary_org.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Summary_org.cs [Design]",
+              "RelativeToolTip": "TitanicSyndrome\\Summary_org.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:38:02.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Summary.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Summary.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\Summary.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Summary.cs",
+              "RelativeToolTip": "TitanicSyndrome\\Summary.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADgv1UAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:34:09.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Summary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Summary.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\Summary.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Summary.cs [Design]",
+              "RelativeToolTip": "TitanicSyndrome\\Summary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:30:08.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Testper.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Testper.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\Testper.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\Testper.cs",
+              "RelativeToolTip": "TitanicSyndrome\\Testper.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswDIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T11:00:59.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmTest_org.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\frmTest_org.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\frmTest_org.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\frmTest_org.cs [Design]",
+              "RelativeToolTip": "TitanicSyndrome\\frmTest_org.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:40:11.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TestIntro_per.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\TestIntro_per.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\TestIntro_per.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\TestIntro_per.cs",
+              "RelativeToolTip": "TitanicSyndrome\\TestIntro_per.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T20:16:48.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TestIntro_org.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\TestIntro_org.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\TestIntro_org.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\TestIntro_org.cs",
+              "RelativeToolTip": "TitanicSyndrome\\TestIntro_org.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAawDkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:10:09.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\AppData\\Local\\Temp\\.vsdbgsrc\\da72682fedd7371eb9a25af6de29293fed20de67afa0f08beaf74a23494f8cdc\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\da72682fedd7371eb9a25af6de29293fed20de67afa0f08beaf74a23494f8cdc\\Program.cs",
+              "ToolTip": "C:\\Users\\Blu\\AppData\\Local\\Temp\\.vsdbgsrc\\da72682fedd7371eb9a25af6de29293fed20de67afa0f08beaf74a23494f8cdc\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\da72682fedd7371eb9a25af6de29293fed20de67afa0f08beaf74a23494f8cdc\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:11:54.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TestIntro_org.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\TestIntro_org.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\TestIntro_org.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\TestIntro_org.cs [Design]",
+              "RelativeToolTip": "TitanicSyndrome\\TestIntro_org.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:06:32.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TestIntro_per.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\TestIntro_per.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\TestIntro_per.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\TestIntro_per.cs [Design]",
+              "RelativeToolTip": "TitanicSyndrome\\TestIntro_per.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:12:08.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmOrgInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\frmOrgInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\frmOrgInfo.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\frmOrgInfo.cs",
+              "RelativeToolTip": "..\\..\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\frmOrgInfo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:53:35.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "dbTitanicDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\dbTitanicDataSet.xsd",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\dbTitanicDataSet.xsd",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\dbTitanicDataSet.xsd",
+              "RelativeToolTip": "TitanicSyndrome\\dbTitanicDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-01-20T12:52:59.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appSettings.json",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome ver2\\TitanicSyndrome\\TitanicSyndrome\\appSettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\TitanicSyndrome ver2\\TitanicSyndrome\\TitanicSyndrome\\appSettings.json",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome ver2\\TitanicSyndrome\\TitanicSyndrome\\appSettings.json",
+              "RelativeToolTip": "..\\..\\..\\TitanicSyndrome ver2\\TitanicSyndrome\\TitanicSyndrome\\appSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T11:45:19.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Test.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\Test.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\Test.Designer.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\Test.Designer.cs",
+              "RelativeToolTip": "..\\..\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\Test.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:36:39.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RJButton.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\RJButton.cs",
+              "RelativeDocumentMoniker": "TitanicSyndrome\\RJButton.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver4\\TitanicSyndrome\\TitanicSyndrome\\RJButton.cs",
+              "RelativeToolTip": "TitanicSyndrome\\RJButton.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAuwBAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:48:22.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\Test.cs",
+              "RelativeDocumentMoniker": "..\\..\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\Test.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\Test.cs",
+              "RelativeToolTip": "..\\..\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\Test.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T20:22:25.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\Test.cs",
+              "RelativeDocumentMoniker": "..\\..\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\Test.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\Test.cs",
+              "RelativeToolTip": "..\\..\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\Test.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T17:18:08.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmOrgInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\frmOrgInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\frmOrgInfo.cs",
+              "ToolTip": "C:\\Users\\Blu\\Documents\\C#\\TitanicSyndrome\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\frmOrgInfo.cs [Design]",
+              "RelativeToolTip": "..\\..\\TitanicSyndrome_ver3\\TitanicSyndrome\\TitanicSyndrome\\frmOrgInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:43:52.024Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
