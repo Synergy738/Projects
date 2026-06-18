@@ -41,17 +41,17 @@ This project demonstrates end-to-end ML engineering: from data preparation and m
 ├─────────────────────────────────────────────────────────────────────┤
 │                                                                     │
 │  ┌──────────────┐    ┌──────────────────┐    ┌───────────────────┐  │
-│  │   Training    │    │     Backend      │    │     Frontend      │  │
-│  │   Pipeline    │    │   (FastAPI)      │    │   (Next.js 14)    │  │
+│  │   Training   │    │     Backend      │    │     Frontend      │  │
+│  │   Pipeline   │    │   (FastAPI)      │    │   (Next.js 14)    │  │
 │  │              │    │                  │    │                   │  │
 │  │  PyTorch     │    │  ONNX Runtime    │    │  React + TS       │  │
-│  │  FFHQ Data   │──▶│  /upscale API    │◀──│  Upload UI        │  │
-│  │  MSE + VGG   │    │  /health API     │──▶│  Compare Slider   │  │
+│  │  FFHQ Data   │──▶│  /upscale API     │◀──│  Upload UI        │  │
+│  │  MSE + VGG   │    │  /health API     │ ──▶│  Compare Slider   │  │
 │  │  PSNR/SSIM   │    │  Pillow + NumPy  │    │  Results Panel    │  │
 │  │              │    │                  │    │                   │  │
 │  └──────┬───────┘    └──────────────────┘    └───────────────────┘  │
 │         │                     ▲                                     │
-│         │    .pth ──▶ .onnx   │                                     │
+│         │    .pth ──▶ .onnx  │                                     │
 │         └─────────────────────┘                                     │
 │                                                                     │
 ├─────────────────────────────────────────────────────────────────────┤
@@ -68,31 +68,31 @@ Input (LR Image)
       │
       ▼
 ┌─────────────────────┐
-│ Feature Extraction   │  Conv2d(3→56, k=5, p=2) + PReLU
+│ Feature Extraction  │  Conv2d(3→56, k=5, p=2) + PReLU
 │ 5×5 kernel          │
 └──────────┬──────────┘
            │
            ▼
 ┌─────────────────────┐
-│ Shrinking            │  Conv2d(56→12, k=1) + PReLU
+│ Shrinking           │  Conv2d(56→12, k=1) + PReLU
 │ 1×1 kernel          │
 └──────────┬──────────┘
            │
            ▼
 ┌─────────────────────┐
-│ Non-linear Mapping   │  4× Conv2d(12→12, k=3, p=1) + PReLU
+│ Non-linear Mapping  │  4× Conv2d(12→12, k=3, p=1) + PReLU
 │ 3×3 kernel (×4)     │
 └──────────┬──────────┘
            │
            ▼
 ┌─────────────────────┐
-│ Expanding            │  Conv2d(12→56, k=1) + PReLU
+│ Expanding           │  Conv2d(12→56, k=1) + PReLU
 │ 1×1 kernel          │
 └──────────┬──────────┘
            │
            ▼
 ┌─────────────────────┐
-│ Deconvolution        │  ConvTranspose2d(56→3, k=9, s=2)
+│ Deconvolution       │  ConvTranspose2d(56→3, k=9, s=2)
 │ 9×9 kernel, stride 2│
 └──────────┬──────────┘
            │
